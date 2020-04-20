@@ -7,3 +7,9 @@ This is the database connection page.To check if the pages are connected the dat
 
 REGISTRATION.PHP :-
 This is the the registration or the signup page where the new user can register itself in the database by filling the registration form with all the necessary fields to be filled in the exact format or pattern as mentioned.  
+
+DASHBOARD.PHP:-
+This is the page where the user will redirected after being validated as a registered user.
+
+LOGOUT.PHP:-
+This is the last page which will be present on the dashboard from where the user will be able to logout from the dashboard and redirected to the login.php page.    
