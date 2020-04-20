@@ -13,3 +13,5 @@ This is the page where the user will redirected after being validated as a regis
 
 LOGOUT.PHP:-
 This is the last page which will be present on the dashboard from where the user will be able to logout from the dashboard and redirected to the login.php page.    
+
+The database has been created on PHPMyAdmin MySql server , and the project had been hosted on localhost. 
